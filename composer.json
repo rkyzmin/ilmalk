@@ -1,0 +1,15 @@
+{
+    "name": "rkyzm/ilmalk",
+    "autoload": {
+        "psr-4": {
+            "": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "Roman Kuzmin",
+            "email": "r.kyzmin.lab@yandex.ru"
+        }
+    ],
+    "require": {}
+}
