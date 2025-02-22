@@ -11,5 +11,7 @@
             "email": "r.kyzmin.lab@yandex.ru"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
