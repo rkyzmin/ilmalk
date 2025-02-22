@@ -37,8 +37,6 @@ class Controller
         }
         
         $this->getLayout($this->nameView, $this->controller, $this->layout);
-        
-        //$this->params = $params;
     }
 
     protected function jsonResponse($data) : void
