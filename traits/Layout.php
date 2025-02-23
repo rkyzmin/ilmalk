@@ -1,6 +1,6 @@
 <?php 
 
-namespace base\traits;
+namespace traits;
 
 trait Layout
 {

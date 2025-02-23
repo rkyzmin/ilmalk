@@ -1,7 +1,6 @@
 <?php
-namespace base;
 
-use base\traits\Layout;
+use traits\Layout;
 
 class HandlerPages
 {

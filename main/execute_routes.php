@@ -1,6 +1,6 @@
 <?php
 
-use base\HandlerPages;
+use HandlerPages;
 
 $routeInfo = isset($routes[$_REQUEST['url_param']]) ? $routes[$_REQUEST['url_param']] : null;
 $handler = new HandlerPages();
